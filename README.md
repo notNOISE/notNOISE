@@ -7,3 +7,4 @@ My name is Filipe da Luz and I'm learning to be a front end developer. On this p
 
 
 # 📞 Get in touch:
+filipeluz94@gmail.com
