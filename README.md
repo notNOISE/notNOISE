@@ -9,4 +9,4 @@ My name is Filipe da Luz and I'm learning to be a front end developer. On this p
 # 📞 Get in touch:
 @filipeluz94@gmail.com
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://media.tenor.com/sSj8NL-WI5kAAAAd/cat-sad.gif)
